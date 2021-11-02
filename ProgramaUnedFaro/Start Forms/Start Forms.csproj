@@ -7,7 +7,7 @@
     <ProjectGuid>{7348214F-2D71-4FC1-9B98-6AA976E12D88}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>Start_Forms</RootNamespace>
-    <AssemblyName>Start_Forms</AssemblyName>
+    <AssemblyName>Start Forms</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -46,14 +46,81 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="Forms\orden_compra.cs" />
+    <Compile Include="Forms\Ventana1.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="Forms\Ventana1.Designer.cs">
+      <DependentUpon>Ventana1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Ventana2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Ventana2.Designer.cs">
+      <DependentUpon>Ventana2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Ventana3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Ventana3.Designer.cs">
+      <DependentUpon>Ventana3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Ventana4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Ventana4.Designer.cs">
+      <DependentUpon>Ventana4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Ventana5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Ventana5.Designer.cs">
+      <DependentUpon>Ventana5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Ventana6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Ventana6.Designer.cs">
+      <DependentUpon>Ventana6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Ventana7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Ventana7.Designer.cs">
+      <DependentUpon>Ventana7.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\VentanaInicial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\VentanaInicial.Designer.cs">
+      <DependentUpon>VentanaInicial.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Forms\Ventana1.resx">
+      <DependentUpon>Ventana1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Ventana2.resx">
+      <DependentUpon>Ventana2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Ventana3.resx">
+      <DependentUpon>Ventana3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Ventana4.resx">
+      <DependentUpon>Ventana4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Ventana5.resx">
+      <DependentUpon>Ventana5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Ventana6.resx">
+      <DependentUpon>Ventana6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Ventana7.resx">
+      <DependentUpon>Ventana7.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\VentanaInicial.resx">
+      <DependentUpon>VentanaInicial.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -76,5 +143,20 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Business\Business.csproj">
+      <Project>{26200ce4-f085-48c2-a3c0-c752f9b59a9a}</Project>
+      <Name>Business</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DataAccess\DataAccess.csproj">
+      <Project>{3c9da04a-fba9-4b2e-b7fc-73838a40c212}</Project>
+      <Name>DataAccess</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Entites\Entites.csproj">
+      <Project>{091076f3-60ae-404b-bc02-c5733246efd2}</Project>
+      <Name>Entites</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -1,0 +1,9 @@
+C:\Users\danie\OneDrive\Escritorio\Tareas C#\ProgramaUnedFaro\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\danie\OneDrive\Escritorio\Tareas C#\ProgramaUnedFaro\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\danie\OneDrive\Escritorio\Tareas C#\ProgramaUnedFaro\DataAccess\bin\Debug\Entites.dll
+C:\Users\danie\OneDrive\Escritorio\Tareas C#\ProgramaUnedFaro\DataAccess\bin\Debug\Entites.pdb
+C:\Users\danie\OneDrive\Escritorio\Tareas C#\ProgramaUnedFaro\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Escritorio\Tareas C#\ProgramaUnedFaro\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Escritorio\Tareas C#\ProgramaUnedFaro\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\danie\OneDrive\Escritorio\Tareas C#\ProgramaUnedFaro\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\danie\OneDrive\Escritorio\Tareas C#\ProgramaUnedFaro\DataAccess\obj\Debug\DataAccess.pdb

@@ -1,0 +1,11 @@
+C:\Users\danie\OneDrive\Escritorio\Tareas C#\ProgramaUnedFaro\Business\bin\Debug\Business.dll
+C:\Users\danie\OneDrive\Escritorio\Tareas C#\ProgramaUnedFaro\Business\bin\Debug\Business.pdb
+C:\Users\danie\OneDrive\Escritorio\Tareas C#\ProgramaUnedFaro\Business\bin\Debug\DataAccess.dll
+C:\Users\danie\OneDrive\Escritorio\Tareas C#\ProgramaUnedFaro\Business\bin\Debug\Entites.dll
+C:\Users\danie\OneDrive\Escritorio\Tareas C#\ProgramaUnedFaro\Business\bin\Debug\DataAccess.pdb
+C:\Users\danie\OneDrive\Escritorio\Tareas C#\ProgramaUnedFaro\Business\bin\Debug\Entites.pdb
+C:\Users\danie\OneDrive\Escritorio\Tareas C#\ProgramaUnedFaro\Business\obj\Debug\Business.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Escritorio\Tareas C#\ProgramaUnedFaro\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Escritorio\Tareas C#\ProgramaUnedFaro\Business\obj\Debug\Business.csproj.CopyComplete
+C:\Users\danie\OneDrive\Escritorio\Tareas C#\ProgramaUnedFaro\Business\obj\Debug\Business.dll
+C:\Users\danie\OneDrive\Escritorio\Tareas C#\ProgramaUnedFaro\Business\obj\Debug\Business.pdb

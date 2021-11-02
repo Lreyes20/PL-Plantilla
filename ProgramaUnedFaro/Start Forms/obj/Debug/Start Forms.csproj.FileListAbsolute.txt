@@ -1,0 +1,24 @@
+C:\Users\danie\OneDrive\Escritorio\Tareas C#\ProgramaUnedFaro\Start Forms\obj\Debug\Start Forms.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Escritorio\Tareas C#\ProgramaUnedFaro\Start Forms\obj\Debug\Start_Forms.Properties.Resources.resources
+C:\Users\danie\OneDrive\Escritorio\Tareas C#\ProgramaUnedFaro\Start Forms\obj\Debug\Start Forms.csproj.GenerateResource.cache
+C:\Users\danie\OneDrive\Escritorio\Tareas C#\ProgramaUnedFaro\Start Forms\obj\Debug\Start Forms.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Escritorio\Tareas C#\ProgramaUnedFaro\Start Forms\bin\Debug\Start Forms.exe.config
+C:\Users\danie\OneDrive\Escritorio\Tareas C#\ProgramaUnedFaro\Start Forms\bin\Debug\Start Forms.exe
+C:\Users\danie\OneDrive\Escritorio\Tareas C#\ProgramaUnedFaro\Start Forms\bin\Debug\Start Forms.pdb
+C:\Users\danie\OneDrive\Escritorio\Tareas C#\ProgramaUnedFaro\Start Forms\bin\Debug\Business.dll
+C:\Users\danie\OneDrive\Escritorio\Tareas C#\ProgramaUnedFaro\Start Forms\bin\Debug\Entites.dll
+C:\Users\danie\OneDrive\Escritorio\Tareas C#\ProgramaUnedFaro\Start Forms\bin\Debug\Business.pdb
+C:\Users\danie\OneDrive\Escritorio\Tareas C#\ProgramaUnedFaro\Start Forms\bin\Debug\Entites.pdb
+C:\Users\danie\OneDrive\Escritorio\Tareas C#\ProgramaUnedFaro\Start Forms\obj\Debug\Start Forms.csproj.CopyComplete
+C:\Users\danie\OneDrive\Escritorio\Tareas C#\ProgramaUnedFaro\Start Forms\obj\Debug\Start Forms.exe
+C:\Users\danie\OneDrive\Escritorio\Tareas C#\ProgramaUnedFaro\Start Forms\obj\Debug\Start Forms.pdb
+C:\Users\danie\OneDrive\Escritorio\Tareas C#\ProgramaUnedFaro\Start Forms\obj\Debug\Start_Forms.Forms.VentanaInicial.resources
+C:\Users\danie\OneDrive\Escritorio\Tareas C#\ProgramaUnedFaro\Start Forms\obj\Debug\Start_Forms.Forms.Ventana1.resources
+C:\Users\danie\OneDrive\Escritorio\Tareas C#\ProgramaUnedFaro\Start Forms\bin\Debug\DataAccess.dll
+C:\Users\danie\OneDrive\Escritorio\Tareas C#\ProgramaUnedFaro\Start Forms\bin\Debug\DataAccess.pdb
+C:\Users\danie\OneDrive\Escritorio\Tareas C#\ProgramaUnedFaro\Start Forms\obj\Debug\Start_Forms.Forms.Ventana2.resources
+C:\Users\danie\OneDrive\Escritorio\Tareas C#\ProgramaUnedFaro\Start Forms\obj\Debug\Start_Forms.Forms.Ventana3.resources
+C:\Users\danie\OneDrive\Escritorio\Tareas C#\ProgramaUnedFaro\Start Forms\obj\Debug\Start_Forms.Forms.Ventana4.resources
+C:\Users\danie\OneDrive\Escritorio\Tareas C#\ProgramaUnedFaro\Start Forms\obj\Debug\Start_Forms.Forms.Ventana5.resources
+C:\Users\danie\OneDrive\Escritorio\Tareas C#\ProgramaUnedFaro\Start Forms\obj\Debug\Start_Forms.Forms.Ventana6.resources
+C:\Users\danie\OneDrive\Escritorio\Tareas C#\ProgramaUnedFaro\Start Forms\obj\Debug\Start_Forms.Forms.Ventana7.resources

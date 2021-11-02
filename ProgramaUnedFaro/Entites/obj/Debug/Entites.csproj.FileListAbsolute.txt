@@ -1,0 +1,6 @@
+C:\Users\danie\OneDrive\Escritorio\Tareas C#\ProgramaUnedFaro\Entites\bin\Debug\Entites.dll
+C:\Users\danie\OneDrive\Escritorio\Tareas C#\ProgramaUnedFaro\Entites\bin\Debug\Entites.pdb
+C:\Users\danie\OneDrive\Escritorio\Tareas C#\ProgramaUnedFaro\Entites\obj\Debug\Entites.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Escritorio\Tareas C#\ProgramaUnedFaro\Entites\obj\Debug\Entites.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Escritorio\Tareas C#\ProgramaUnedFaro\Entites\obj\Debug\Entites.dll
+C:\Users\danie\OneDrive\Escritorio\Tareas C#\ProgramaUnedFaro\Entites\obj\Debug\Entites.pdb
